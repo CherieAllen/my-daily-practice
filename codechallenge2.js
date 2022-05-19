@@ -50,3 +50,64 @@
 
 // console.log(calculateExponent(3,3));
 
+
+
+// for (let i=10; i>1; i--){  // decrement from 10
+//     console.log(i)
+
+// }
+
+
+// for (let i =0; i<10; i++){ // increment to 10
+//     console.log(i)
+// }
+
+// const car = ['toyota', 'nissan', 'lexus']
+// const numCar = car.length
+// for ( let i=0; i>numCar; i++){
+//     console.log(car[i])
+// }
+
+
+
+
+// Create a function that takes an array and a string as arguments and returns the index of the string.
+
+// arr =["hi", "edabit", "fgh", "abc"]
+
+// function findIndex(arr,str){
+//     return arr.indexOf(str)
+
+// }
+
+// console.log(findIndex(arr,"fgh"));
+
+
+// Create a function that finds the index of a given item.
+
+// arr = [1, 5, 3]
+
+// function search (arr,item){
+//     return arr.indexOf(item)
+// }
+
+// console.log(search(arr,3));
+
+const num = {
+    "one":1,
+    "two":2,
+    "three":3,
+    "four":4,
+    "five":5,
+    "six":6,
+    "seven":7,
+    "eight":8,
+    "nine":9,
+    "zero":0
+    }
+
+    function word (num){
+        return num.indexOf()
+    }
+
+    console.log(word("two"));
